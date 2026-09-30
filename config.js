@@ -8,8 +8,8 @@ window.EVENTO_CONFIG = {
   idade: "15 anos",
 
   botoes: {
-   quiz: { x: 17.2, y: 39.5, largura: 65.6, altura: 8.3 },
-   foto: { x: 16, y: 51.8, largura: 66.7, altura: 7.9 }
+   quiz: { x: 14.9, y: 55.1, largura: 29, altura: 18.8 },
+   foto: { x: 57.6, y: 55.1, largura: 28.1, altura: 18.9 }
   },
 
   quiz: {
